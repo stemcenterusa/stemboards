@@ -14,7 +14,7 @@
                     "architecture": "avr",
                     "version": "1.0.0",
                     "category": "STEM",
-                    "url": "https://github.com/<stemcenterpage>/<locale>/STEMCenterUSA-1.0.0.tar.bz2",
+                    "url": "https://github.com/stemcenterusa/stemboards/raw/master/boards/STEMCenterUSA-1.0.0.tar.bz2",
                     "archiveFileName": "STEMCenterUSA-1.0.0.tar.bz2",
                     "checksum": "SHA-256:fea83b19a0c3f266a1fc2580ef83ca5e12eb0ab42af549fa8a62187ee6dbd475",
                     "size": "661965",
