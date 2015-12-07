@@ -1,0 +1,35 @@
+{
+    "packages": [
+        {
+            "name": "STEM Center USA",
+            "maintainer": "STEM Center USA",
+            "websiteURL": "http://stemcenterusa.com/",
+            "email": "info@STEMCenterUSA.com",
+            "help": {
+                "online": "http://stemcenterusa.com/"
+            },
+            "platforms": [
+                {
+                    "name": "STEM Boards",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "STEM",
+                    "url": "https://github.com/<stemcenterpage>/<locale>/STEMCenterUSA-1.0.0.tar.bz2",
+                    "archiveFileName": "STEMCenterUSA-1.0.0.tar.bz2",
+                    "checksum": "SHA-256:fea83b19a0c3f266a1fc2580ef83ca5e12eb0ab42af549fa8a62187ee6dbd475",
+                    "size": "661965",
+                    "help": {
+                        "online": "http://stemcenterusa.com/faq/"
+                    },
+                    "boards": [
+                        {
+                            "name": "Fiat Lux"
+                        }
+                    ],
+                    "toolsDependencies": []
+                }
+            ],
+            "tools": []
+		}
+	]
+}
